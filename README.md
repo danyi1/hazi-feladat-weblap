@@ -1,2 +1,0 @@
-# hazi-feladat-weblap
-weblap
